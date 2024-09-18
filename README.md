@@ -13,7 +13,7 @@
   - Footer: Add a copyright notice, and include any additional relevant information, such as social media links.
 
 # Project Demo
-  - Check out the live version of the portfolio: [Live Demo]()
+  - Check out the live version of the portfolio: [Live Demo](https://sujalthakkar20.github.io/CODSOFT_PROTFOLIO/)
 
 # Video Previews:
-  - Portfolio Laptop View: [Watch here]()
+  - Portfolio Laptop View: [Watch here](https://sujalthakkar20.github.io/CODSOFT_PROTFOLIO/Task-2_video.mp4)
